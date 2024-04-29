@@ -1,0 +1,15 @@
+.counter{
+    margin:300px 450px;
+    border-color: aqua;
+    font-family: "Frijole", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button{
+    margin-left:80px;
+    padding:5px;
+    font-family: "Frijole", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
